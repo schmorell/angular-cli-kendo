@@ -1,5 +1,5 @@
 import * as angular from 'angular'
-import uiRouter from 'angular-ui-router';
+import uiRouter from '@uirouter/angularjs';
 import '@progress/kendo-ui';
 
 import { RootModule } from './root/root.module';
